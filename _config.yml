@@ -1,0 +1,28 @@
+name: variapp
+favicon: null
+layout_spectrum: 0.6772788015659899
+typography_spectrum: 0.547222601249814
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3951343153603375
+  lightness: 0.2785099307075143
+  saturation: 0.525335093960166
+  rhythmicContrast: 0.7691286641638726
+purpose: []
